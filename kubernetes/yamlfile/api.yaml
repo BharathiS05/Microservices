@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name:  "zuul-api"
-        image:  kiruba1931/api:v1
+        image:  bharathis1996/api:v1
         ports:
         - containerPort: 9999
           name:  "zuul-api"
